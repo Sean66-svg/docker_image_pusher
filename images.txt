@@ -1,1 +1,1 @@
-nyanmisaka/jellyfin
+jeessy/ddns-go
