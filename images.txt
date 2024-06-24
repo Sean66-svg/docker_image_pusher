@@ -1,1 +1,1 @@
-qbittorrent/qBittorrent
+qbittorrent/qBittorrent:latest
