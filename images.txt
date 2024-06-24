@@ -1,1 +1,1 @@
-qbittorrent/qBittorrent:latest
+qbittorrent/qBittorrent:4.6.5
