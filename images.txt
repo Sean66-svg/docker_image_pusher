@@ -1,1 +1,1 @@
-qbittorrent/qBittorrent:4.6.5
+linuxserver/qbittorrent:4.6.5-libtorrentv1
