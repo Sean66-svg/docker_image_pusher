@@ -1,1 +1,1 @@
-linuxserver/qbittorrent:4.6.5-libtorrentv1
+nastool/nas-tools:latest
